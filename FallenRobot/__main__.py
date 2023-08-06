@@ -375,7 +375,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=6013725316"
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
@@ -405,7 +405,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=6013725316"
                         ),
                         InlineKeyboardButton(
                             text="QUERIES",
@@ -442,7 +442,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴡᴇ ᴅᴏ sɪᴍᴘʟᴇ ᴍᴏᴅɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴀᴅᴅᴇᴅ sᴏᴍᴇᴛʜɪɴɢ ᴜɴɪǫᴜᴇ ғᴇᴀᴛᴜʀᴇs 
 
  
-ᴄᴏᴅᴇ ʙʏ  [𝗚𝗘𝗘𝗞](tg://user?id={OWNER_ID}) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+ᴄᴏᴅᴇ ʙʏ  [𝗚𝗘𝗘𝗞](tg://user?id=6013725316) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 
 .
 """,
