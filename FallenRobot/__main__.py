@@ -442,7 +442,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴡᴇ ᴅᴏ sɪᴍᴘʟᴇ ᴍᴏᴅɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴀᴅᴅᴇᴅ sᴏᴍᴇᴛʜɪɴɢ ᴜɴɪǫᴜᴇ ғᴇᴀᴛᴜʀᴇs 
 
  
-ᴄᴏᴅᴇ ʙʏ  [ROYAL DEVIL](tg://user?id=1486065766) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+ᴄᴏᴅᴇ ʙʏ  [ROYAL DEVIL](tg://user?id=1486065766) AND [GEEK TYPER ](tg://user?id=6013725316) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 
 .
 """,
