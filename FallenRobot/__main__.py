@@ -432,19 +432,11 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
 def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
-        query.message.edit_text(
-            text=f"""
-*ʜᴇʏ,
+        gif_url = "https://example.com/your_gif.gif"
+        
+        # Edit the message to show the GIF
+        query.message.edit_animation(animation=gif_url)
 
-
-*ᴛʜᴇsᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴀʟʀᴇᴀᴅʏ ᴀʀᴇ ᴘᴜʙʟɪsʜᴇᴅ ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴏɴ ɢɪᴛʜᴜʙ 
-
-ᴡᴇ ᴅᴏ sɪᴍᴘʟᴇ ᴍᴏᴅɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴀᴅᴅᴇᴅ sᴏᴍᴇᴛʜɪɴɢ ᴜɴɪǫᴜᴇ ғᴇᴀᴛᴜʀᴇs 
-
- 
-ᴄᴏᴅᴇ ʙʏ  [ROYAL DEVIL](tg://user?id=1486065766) AND [GEEK TYPER ](tg://user?id=6013725316) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
-
-.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
