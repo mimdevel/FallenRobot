@@ -429,13 +429,24 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
         )
 
 
-def Source_about_callback(update: Update, context: CallbackContext):
-    query = update.callback_query
-    if query.data == "source_":
-        gif_url = "https://te.legra.ph/file/a8a351bff8f4efbfb2f68.mp4"
-        
-        # Edit the message to show the GIF
-        query.message.edit_animation(animation=gif_url)
+CallbackContext):
+
+def Source_about_callback(update: Update, context : CallbackContext):
+
+query= update.callback_query
+
+if query.data == "source_": query.message.edit_text(
+
+text=f"""
+
+
+Lᴜɴᴅ Lᴇʟᴇ ᴍᴇʀᴀ 🙂
+
+
+CODE BY [ 𝐑ᴏʏᴀʟ  𝐃ᴇᴠɪʟ ] (tg://user?id=
+
+1486065766)
+
 
 """,
             parse_mode=ParseMode.MARKDOWN,
