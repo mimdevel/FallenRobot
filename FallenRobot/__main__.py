@@ -375,7 +375,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=6013725316"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=1486065766"
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
@@ -405,7 +405,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=6013725316"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=1486065766"
                         ),
                         InlineKeyboardButton(
                             text="QUERIES",
@@ -442,7 +442,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴡᴇ ᴅᴏ sɪᴍᴘʟᴇ ᴍᴏᴅɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴀᴅᴅᴇᴅ sᴏᴍᴇᴛʜɪɴɢ ᴜɴɪǫᴜᴇ ғᴇᴀᴛᴜʀᴇs 
 
  
-ᴄᴏᴅᴇ ʙʏ  [𝗚𝗘𝗘𝗞](tg://user?id=6013725316) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+ᴄᴏᴅᴇ ʙʏ  [ROYAL DEVIL](tg://user?id=1486065766) ,  ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 
 .
 """,
